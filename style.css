@@ -1,17 +1,19 @@
 /* BODY */
 body {
     min-height: 100hv;
-    background-color: #1f2937;
+    margin: 0;
 
     /* font-family: roboto; */
     /* display: flex; */
 }
+/* ------------------------------------------ */
 
 /* HERO */
 
 /* HEADER */
 .hero {
     background-color: #1f2937;
+    
 }
 
 .header {
@@ -77,4 +79,30 @@ button {
 .black-woman-on-laptop {
     width: 450px;
     flex-basis: 20%;
+}
+
+/* ------------------------------------------ */
+
+/* SECTION TWO */
+
+.section-two {
+    display: flex;
+}
+
+h2 {
+    width: 500px;
+}
+
+.illustrations-text {
+    display: flex;
+    list-style-type: none;
+}
+
+.illustration {
+    width: 150px;
+    height: 150px;
+    border-style: solid;
+    border-color: #3882f6;
+    border-radius: 15px;
+    border-width: 4px;
 }
