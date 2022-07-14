@@ -187,3 +187,21 @@ figcaption {
     font-weight: 700;
     font-size: 15px;
 }
+
+/* ------------------------------------------ */
+/* FOOTER */
+
+.footer {
+    background-color: #1f2937;
+    padding: 32px 0;
+    color: #e0e1e8;
+    font-weight: 300;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    margin-top: auto;
+}
+
+.copyright {
+    margin: auto 8px;
+}
