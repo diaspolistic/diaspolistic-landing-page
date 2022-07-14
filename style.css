@@ -124,3 +124,31 @@ li {
     border-radius: 15px;
     border-width: 4px;
 }
+
+/* ------------------------------------------ */
+
+/* SECTION THREE */
+
+.section-three {
+    background-color: #E5E7EB ;
+    padding: 80px 240px;
+}
+
+/* .quote {
+    padding: 140px;
+} */
+
+blockquote {
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
+    color: #1f2937;
+    margin: 0;
+}
+
+figcaption {
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+}
