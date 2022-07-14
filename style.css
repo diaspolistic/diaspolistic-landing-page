@@ -6,7 +6,6 @@ body {
     /* display: flex; */
 }
 /* ------------------------------------------ */
-
 /* HERO */
 
 /* HEADER */
@@ -80,7 +79,6 @@ button {
 }
 
 /* ------------------------------------------ */
-
 /* SECTION TWO */
 
 .section-two {
@@ -126,17 +124,12 @@ li {
 }
 
 /* ------------------------------------------ */
-
 /* SECTION THREE */
 
 .section-three {
-    background-color: #E5E7EB ;
+    background-color: #E5E7EB;
     padding: 80px 240px;
 }
-
-/* .quote {
-    padding: 140px;
-} */
 
 blockquote {
     font-size: 36px;
@@ -151,4 +144,46 @@ figcaption {
     font-weight: bold;
     display: flex;
     justify-content: flex-end;
+}
+
+/* ------------------------------------------ */
+/* SECTION FOUR */
+
+.section-four {
+    padding: 40px 140px;
+    margin: 60px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.cta-section {
+    background-color: #3882f6;
+    width: 850px;
+    display:flex;
+    padding: 50px 100px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cta-main-text {
+    color: #f9faf8;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.cta-subtext {
+    color: #e0e1e8;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.button-sect-four {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: #f9faf8;
+    /* padding: auto 24px; */
+    font-weight: 700;
+    font-size: 15px;
 }
