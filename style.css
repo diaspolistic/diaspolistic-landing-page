@@ -2,8 +2,7 @@
 body {
     min-height: 100hv;
     margin: 0;
-
-    /* font-family: roboto; */
+    font-family: 'Roboto', sans-serif;
     /* display: flex; */
 }
 /* ------------------------------------------ */
@@ -12,8 +11,7 @@ body {
 
 /* HEADER */
 .hero {
-    background-color: #1f2937;
-    
+    background-color: #1f2937;  
 }
 
 .header {
@@ -31,7 +29,7 @@ body {
 
 h1 {
     font-size: 48px;
-    font-weight:900;
+    font-weight: 900;
     color: #f9faf8;
     margin-bottom: 5px;
 }
@@ -87,15 +85,35 @@ button {
 
 .section-two {
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px ;
+    margin-top: 10px;
+    margin-bottom: 100px;
+
 }
 
 h2 {
     width: 500px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    margin-bottom: 0;
+    width:100%; 
+    margin: 0;
 }
 
-.illustrations-text {
+.illustrations-block {
     display: flex;
     list-style-type: none;
+    justify-content: center;
+    padding: 0;
+}
+li {
+    width: 140px;
+    margin: 30px;
+    text-align: center;
 }
 
 .illustration {
