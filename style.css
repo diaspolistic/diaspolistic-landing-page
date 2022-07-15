@@ -152,6 +152,11 @@ li {
     padding: 60px 200px;
 }
 
+figure {
+    display: flex;
+    flex-direction: column;
+}
+
 blockquote {
     font-size: 36px;
     font-weight: 200;
@@ -159,13 +164,14 @@ blockquote {
     color: #1f2937;
     margin: 0;
     padding: 40px 80px;
+    flex: 1 0 auto;
 }
 
 figcaption {
     font-size: 25px;
     font-weight: 500;
-    display: flex;
-    justify-content: flex-end;
+    margin-left: 600px;
+    margin-top: -40px ;
 }
 
 cite {
