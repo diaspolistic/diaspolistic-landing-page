@@ -10,7 +10,8 @@ body {
 
 /* HEADER */
 .hero {
-    background-color: #1f2937;  
+    background-color: #1f2937; 
+    padding: 0 50px; 
 }
 
 .header {
@@ -75,17 +76,22 @@ h1 {
 }
 
 button {
-    padding: 10px 30px ;
     background-color: #3882f6;
-    border: none;
     border-radius: 5px;
     color: white;
 }
 
+.sign-up { 
+    padding: 10px 30px ;
+    border: none;
+    font-weight: 600;
+    font-size: 16px;
+
+}
+
 .black-woman-on-laptop {
     width: 450px;
-    margin-right: 16px;
-    
+    margin-right: 16px; 
 }
 
 /* ------------------------------------------ */
