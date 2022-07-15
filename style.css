@@ -149,7 +149,7 @@ li {
 
 .section-three {
     background-color: #E5E7EB;
-    padding: 80px 240px;
+    padding: 60px 200px;
 }
 
 blockquote {
@@ -158,11 +158,12 @@ blockquote {
     font-style: italic;
     color: #1f2937;
     margin: 0;
+    padding: 40px 80px;
 }
 
 figcaption {
-    font-size: 20px;
-    font-weight: bold;
+    font-size: 25px;
+    font-weight: 500;
     display: flex;
     justify-content: flex-end;
 }
