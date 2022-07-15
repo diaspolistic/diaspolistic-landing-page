@@ -84,8 +84,8 @@ button {
 
 .black-woman-on-laptop {
     width: 450px;
-    flex-basis: 20%;
-    /* flex-grow: 3; */
+    margin-right: 16px;
+    
 }
 
 /* ------------------------------------------ */
