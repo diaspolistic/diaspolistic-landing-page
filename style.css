@@ -79,13 +79,14 @@ button {
     background-color: #3882f6;
     border-radius: 5px;
     color: white;
+    font-weight: 600;
+    font-size: 16px;
 }
 
 .sign-up { 
     padding: 10px 30px ;
     border: none;
-    font-weight: 600;
-    font-size: 16px;
+  
 
 }
 
@@ -215,9 +216,9 @@ cite {
     border-width: 2px;
     border-radius: 5px;
     border-color: #f9faf8;
-    /* padding: auto 24px; */
-    font-weight: 700;
-    font-size: 15px;
+    padding: 1px 24px;
+    /* font-weight: 700;
+    font-size: 15px; */
 }
 
 /* ------------------------------------------ */
