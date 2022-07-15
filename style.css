@@ -191,12 +191,13 @@ cite {
 
 .cta-section {
     background-color: #3882f6;
-    width: 850px;
+    width: 800px;
     display:flex;
     padding: 50px 100px;
     border-radius: 10px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .cta-main-text {
@@ -216,9 +217,8 @@ cite {
     border-width: 2px;
     border-radius: 5px;
     border-color: #f9faf8;
-    padding: 1px 24px;
-    /* font-weight: 700;
-    font-size: 15px; */
+    padding: 1px 30px;
+    height: 38px;
 }
 
 /* ------------------------------------------ */
