@@ -114,7 +114,6 @@ h2 {
     font-weight: 700;
     color: #1f2937;
     margin-bottom: 0;
-    /* width:100%;  */
     margin: 0;
 }
 
@@ -166,14 +165,12 @@ blockquote {
     color: #1f2937;
     margin: 0;
     padding: 40px 80px;
-    flex: 1 0 auto;
 }
 
 figcaption {
     font-size: 25px;
     font-weight: 500;
-    margin-left: 600px;
-    margin-top: -40px ;
+    align-self: flex-end;
 }
 
 cite {
@@ -196,7 +193,6 @@ cite {
     display:flex;
     padding: 50px 100px;
     border-radius: 10px;
-    display: flex;
     justify-content: space-around;
     align-items: center;
 }
