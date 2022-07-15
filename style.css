@@ -3,7 +3,8 @@ body {
     min-height: 100hv;
     margin: 0;
     font-family: 'Roboto', sans-serif;
-    /* display: flex; */
+    display: flex;
+    flex-direction: column;
 }
 /* ------------------------------------------ */
 /* HERO */
