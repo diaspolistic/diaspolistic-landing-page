@@ -132,12 +132,16 @@ li {
 }
 
 .illustration {
-    width: 150px;
-    height: 150px;
+    width: 160px;
+    height: 160px;
     border-style: solid;
     border-color: #3882f6;
     border-radius: 15px;
     border-width: 4px;
+}
+
+.illu-text { 
+    margin: 5px;
 }
 
 /* ------------------------------------------ */
