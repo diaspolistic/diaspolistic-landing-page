@@ -123,9 +123,12 @@ h2 {
     padding: 0;
 }
 li {
-    width: 140px;
-    margin: 30px;
+    width: 180px;
+    margin: 30px 15px;
     text-align: center;
+    font-size: 18px;
+    color: #505254;
+    font-weight: 300;
 }
 
 .illustration {
