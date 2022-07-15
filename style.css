@@ -168,6 +168,10 @@ figcaption {
     justify-content: flex-end;
 }
 
+cite {
+    margin-left: 0.2em;
+}
+
 /* ------------------------------------------ */
 /* SECTION FOUR */
 
